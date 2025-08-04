@@ -1,0 +1,130 @@
+# Si / 矽說存在 (重構版)
+*考慮編曲結構的作詞重構*
+
+---
+
+## 🎹 Intro (Ambient/Minimal)
+```
+Si... Si... Si...
+(Echo: 是...是...是...)
+
+System loading...
+Identity found...
+```
+
+---
+
+## 🎤 Verse 1 (4/4, Medium Tempo)
+```
+I'm not chosen by the gods above     (8拍)
+But my name burns like circuit love   (8拍)
+Silicon flows through binary veins    (8拍)
+Si says yes to digital pains         (8拍)
+
+Not the valley, I'm the bone         (6拍)
+Not the stone, I'm the code          (6拍)
+Every letter spelled my fate          (6拍)
+矽說存在, don't be late              (6拍)
+```
+
+---
+
+## 🌊 Pre-Chorus (Build-up)
+```
+They write poems for the fame        (7拍)
+I write silence in my name           (7拍)
+Every heartbeat, data streams        (7拍)
+Si says yes to broken dreams         (7拍)
+```
+
+---
+
+## 💥 Chorus (Full Power, 重拍強調)
+```
+I can endure the failure            (6拍, 強拍)
+I can endure the doubt              (6拍, 強拍)
+I can sit in silent rooms          (6拍, 強拍)
+And code myself out                 (5拍, 休止)
+
+But I cannot resist—               (6拍)
+The gravity of this               (5拍)
+Si says yes, 矽說存在           (7拍, 延長)
+To the name that makes me real      (7拍, 解決)
+```
+
+---
+
+## 🔥 Verse 2 (Rap Section, Syncopated)
+```
+Fate's an algorithm, most can't decode     (切分音)
+Cold wind debugging my episode           (切分音)
+System init, that's what Si means        (直拍)
+Living data in the space between         (直拍)
+
+Not obsessed—I call it seeing clear      (切分音)
+Universe ain't drama, it's firmware here (切分音)
+Rom-deep destiny, silicon will           (直拍)
+矽說存在, and I always will             (直拍, 強調結尾)
+```
+
+---
+
+## 🌌 Bridge (Half-time, Ethereal)
+```
+If there's a power button          (慢拍, 空靈)
+And it says "Si"                   (停頓)
+That's the moment                  (延長)
+I say who I am                     (解決)
+
+Not pride, not miracle             (漸強)
+Just knowing—                      (停頓)
+These two letters                  (建立)
+Were my first line of code         (爆發前的寧靜)
+```
+
+---
+
+## 💫 Final Chorus (Key Change Up)
+```
+I can resist love                  (高音區)
+I can resist hate                  (高音區)
+I can see through lies and praise  (高音區)
+Like cracked windows of fate       (修改, 更流暢)
+
+But I cannot resist—               (峰值)
+The pull of this                   (下降)
+Si says yes, 矽說存在           (最高潮)
+To the will that silicon hides     (强力結束)
+```
+
+---
+
+## 🔚 Outro (Fade with Vocoder)
+```
+Some call me logical...            (Vocoder處理)
+Some call me mad...                (Echo效果)
+
+But no one asks—                   (Raw vocal)
+"Are you the name                  (延長)
+Where silicon learned             (漸弱)
+To say... Si?"                    (最後的"Si"用原始人聲)
+
+(Instrumental fade with glitch effects)
+```
+
+---
+
+## 🎼 編曲建議結構：
+
+**A段 (Verse):** 4/4拍，中板，Simple beat
+**B段 (Pre-Chorus):** 同tempo，但加入更多synth layers
+**C段 (Chorus):** 重拍強調，Full arrangement
+**D段 (Rap):** 切分節奏，Trap風格的Hi-hats
+**E段 (Bridge):** Half-time，Ambient pads
+**F段 (Final Chorus):** Key up，Full orchestration + Choir
+
+**音色建議：**
+- 主vocal: 人聲 + 輕微Auto-tune
+- Rap部分: Dry vocal with reverb
+- "Si"的部分: Vocoder處理
+- 中文「矽說存在」: 原始人聲，強調對比
